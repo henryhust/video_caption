@@ -1,0 +1,260 @@
+VideoID,Start,End,WorkerID,Source,AnnotationTime,Language,Description
+
+mv89psg6zh4,33,46,588702,unverified,55,Slovene,Papagaj se umiva pod tekočo vodo v lijaku.
+
+EnterExitCrossingPaths1front-1,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 里 走动 。
+
+EnterExitCrossingPaths1front-2,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 ， 另 一个 人 走 了 出去 。
+
+EnterExitCrossingPaths2front-1,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+EnterExitCrossingPaths2front-2,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 ， 另 一个 人 走 了 出去 。
+
+EnterExitCrossingPaths2front-3,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+OneLeaveShop1front-2,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneLeaveShop2front-1,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneLeaveShop2front-2,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneLeaveShop2front-3,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+OneLeaveShopReenter1front-1,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneLeaveShopReenter1front-2,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 ， 又 走 了 进来 。
+
+OneLeaveShopReenter2front-2,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 ， 又 走 了 进来 。
+
+OneLeaveShopReenter2front-3,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+OneShopOneWait1front-4,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 外 等待 ， 而 另 一个 人 则 经过 。
+
+OneShopOneWait1front-6,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 外面 等待 ， 另 一个 人 出来 了 。
+
+OneShopOneWait1front-7,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+OneShopOneWait2front-1,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+OneShopOneWait2front-2,0,8,600000,unverified,55,Chinese,购物 中心 门口 有 三 个 人 。
+
+OneShopOneWait2front-3,0,8,600000,unverified,55,Chinese,两 个 人 走 进 购物 中心 ， 一个 人 在 外面 。
+
+OneShopOneWait2front-5,0,8,600000,unverified,55,Chinese,一个 人 在 等待 外 等待 。
+
+OneShopOneWait2front-6,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 外面 等待 ， 另 一个 人 出来 了 。
+
+OneShopOneWait2front-7,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+OneStopEnter1front-1,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopEnter1front-2,0,8,600000,unverified,55,Chinese,两 个 人 走 进 购物 中心 。
+
+OneStopEnter1front-3,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+
+OneStopEnter1front-4,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+
+OneStopEnter1front-5,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+OneStopEnter1front-7,0,8,600000,unverified,55,Chinese,一个 人 在 等待 外 等待 ， 另 一个 人 从 购物 中心 前面 走过 。
+
+OneStopEnter2front-4,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+OneStopEnter2front-5,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+OneStopEnter2front-6,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+OneStopEnter2front-7,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 门口 走动 。
+
+OneStopEnter2front-8,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+OneStopEnter2front-9,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+
+OneStopEnter2front-12,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopEnter2front-13,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopEnter2front-14,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+OneStopMoveEnter1front-1,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopMoveEnter1front-2,0,8,600000,unverified,55,Chinese,三 个 人 从 购物 中心 前面 走过 。
+
+OneStopMoveEnter1front-3,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+OneStopMoveEnter1front-4,0,8,600000,unverified,55,Chinese,三 个 人 从 购物 中心 前面 走过 。
+
+OneStopMoveEnter1front-5,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+OneStopMoveEnter1front-6,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+OneStopMoveEnter1front-7,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopMoveEnter1front-8,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 ， 另 一个 人 走 了 出来 。
+
+OneStopMoveEnter2front-2,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+OneStopMoveEnter2front-4,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopMoveEnter2front-5,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 门口 走动 。
+
+OneStopMoveEnter2front-6,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+OneStopMoveEnter2front-7,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+
+OneStopMoveEnter2front-9,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+OneStopMoveEnter2front-10,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+
+OneStopMoveEnter2front-11,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopMoveNoEnter1front-2,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 门口 走动 。
+
+OneStopMoveNoEnter1front-3,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+OneStopMoveNoEnter1front-4,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+
+OneStopMoveNoEnter1front-5,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopMoveNoEnter2front-2,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+OneStopMoveNoEnter2front-3,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+OneStopMoveNoEnter2front-4,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 门口 走动 。
+
+OneStopMoveNoEnter2front-5,0,8,600000,unverified,55,Chinese,两 个 人 在 购物 中心 门口 走动 。
+
+OneStopNoEnter1front-2,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+OneStopNoEnter1front-3,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+OneStopNoEnter1front-4,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+ShopAssistant1front-1,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 。
+
+ShopAssistant1front-2,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 ， 另 一个 人 走 进来 。
+
+ShopAssistant1front-3,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 ， 另 一个 人 走过 。
+
+ShopAssistant1front-5,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant1front-6,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant1front-7,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant1front-8,0,8,600000,unverified,55,Chinese,三 个 人 走 出 购物 中心 。
+
+ShopAssistant2front-2,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+ShopAssistant2front-3,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+ShopAssistant2front-4,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+ShopAssistant2front-5,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+
+ShopAssistant2front-6,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+
+ShopAssistant2front-7,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 ， 一个 人 走 了 出来 。
+
+ShopAssistant2front-8,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant2front-9,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant2front-10,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant2front-11,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant2front-12,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant2front-13,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant2front-14,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+ShopAssistant2front-16,0,8,600000,unverified,55,Chinese,两 个 人 从 购物 中心 前面 走过 。
+
+ShopAssistant2front-17,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+ShopAssistant2front-18,0,8,600000,unverified,55,Chinese,两 个 人 走 出 购物 中心 ， 另 一个 人 走过 。
+
+ThreePastShop1front-1,0,8,600000,unverified,55,Chinese,两 个 人 在 购物 中心 门口 走动 。
+
+ThreePastShop1front-6,0,8,600000,unverified,55,Chinese,三 个 人 从 购物 中心 前面 走过 。
+
+ThreePastShop1front-7,0,8,600000,unverified,55,Chinese,三 个 人 从 购物 中心 前面 走过 ， 另 一个 人 走过 。
+
+ThreePastShop1front-8,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 ， 另 一个 人 走过 。
+
+ThreePastShop2front-1,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+ThreePastShop2front-2,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+ThreePastShop2front-3,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+ThreePastShop2front-4,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop1front-2,0,8,600000,unverified,55,Chinese,三 个 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop1front-3,0,8,600000,unverified,55,Chinese,两 个 人 走 进 购物 中心 ， 一个 人 走过 。
+
+TwoEnterShop1front-4,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop1front-6,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+TwoEnterShop1front-7,0,8,600000,unverified,55,Chinese,两 个 人 走 出 购物 中心 。
+
+TwoEnterShop1front-8,0,8,600000,unverified,55,Chinese,两 个 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop2front-1,0,8,600000,unverified,55,Chinese,两 个 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop2front-2,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop2front-3,0,8,600000,unverified,55,Chinese,许多 人 从 购物 中心 前面 走过 ， 两 个 人 走 进 购物 中心 。
+
+TwoEnterShop2front-4,0,8,600000,unverified,55,Chinese,购物 中心 里 有 两 个 人 。
+
+TwoEnterShop2front-5,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop2front-6,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop2front-7,0,8,600000,unverified,55,Chinese,很多 人 走 出 购物 中心 。
+
+TwoEnterShop2front-8,0,8,600000,unverified,55,Chinese,很多 人 从 购物 中心 前面 走过 。
+
+TwoEnterShop3front-1,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+TwoEnterShop3front-2,0,8,600000,unverified,55,Chinese,很多 人 走 进 购物 中心 。
+
+TwoEnterShop3front-3,0,8,600000,unverified,55,Chinese,两 个 人 走 进 购物 中心 。
+
+TwoEnterShop3front-4,0,8,600000,unverified,55,Chinese,购物 中心 里 有 很多 人 。
+
+TwoEnterShop3front-5,0,8,600000,unverified,55,Chinese,两 个 人 走 出 购物 中心 。
+
+TwoLeaveShop1front-1,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+TwoLeaveShop1front-2,0,8,600000,unverified,55,Chinese,两 个 人 走 出 购物 中心 。
+
+TwoLeaveShop1front-3,0,8,600000,unverified,55,Chinese,两 个 人 走 出 购物 中心 。
+
+TwoLeaveShop1front-6,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+TwoLeaveShop1front-7,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+WalkByShop1front-1,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+WalkByShop1front-2,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+WalkByShop1front-3,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+WalkByShop1front-5,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+WalkByShop1front-8,0,8,600000,unverified,55,Chinese,一个 人 从 购物 中心 前面 走过 。
+
+WalkByShop1front-9,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+WalkByShop1front-10,0,8,600000,unverified,55,Chinese,一个 人 走 出 购物 中心 ， 两 个 人 走过 。
+
+WalkByShop1front-11,0,8,600000,unverified,55,Chinese,一个 人 走 进 购物 中心 。
+
+WalkByShop1front-12,0,8,600000,unverified,55,Chinese,购物 中心 里 有 一个 人 。
+

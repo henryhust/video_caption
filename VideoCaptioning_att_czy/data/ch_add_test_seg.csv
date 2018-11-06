@@ -1,0 +1,21 @@
+VideoID,Start,End,WorkerID,Source,AnnotationTime,Language,Description
+
+OneLeaveShop1front-1,0,8,600000,unverified,55,Chinese,一个 人 走 出 商场 。
+
+OneLeaveShop2front-4,0,8,600000,unverified,55,Chinese,商场 门口 没有 人 。
+
+OneLeaveShopReenter2front-1,0,8,600000,unverified,55,Chinese,一个 人 走 出 商场 ， 一个 人 从 商场 前面 走过 。
+
+OneShopOneWait2front-4,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 外 等候 。
+
+OneStopMoveEnter2front-3,0,8,600000,unverified,55,Chinese,商场 里 有 一个 人 。
+
+ShopAssistant1front-4,0,8,600000,unverified,55,Chinese,一个 人 走 进 商场 。
+
+OneShopOneWait1front-1,0,8,600000,unverified,55,Chinese,购物 中心 门口 没有 人 。
+
+OneShopOneWait1front-2,0,8,600000,unverified,55,Chinese,两 个 人 走过 购物 中心 门口 。
+
+OneShopOneWait1front-3,0,8,600000,unverified,55,Chinese,购物 中心 门口 有 三 个 人 。
+
+OneShopOneWait1front-5,0,8,600000,unverified,55,Chinese,一个 人 在 购物 中心 外 等待 。
