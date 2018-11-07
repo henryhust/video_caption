@@ -11,7 +11,7 @@ matplotlib.use('Agg')  # 确定使用的后端
 import matplotlib.pyplot as plt
 
 
-
+# 这是我进行的一次测试
 #=======================================================================================
 # Train Parameters
 #=======================================================================================
@@ -22,14 +22,14 @@ n_video_lstm_step = 80  # 视频特征提起lstm维度
 n_caption_lstm_step = 20  # 描述生成 lstm维度
 n_frame_step = 80  # 视频帧数
 
-n_epochs = 100  # 轮数
+n_epochs = 1200  # 轮数
 batch_size = 12  # batch大小
 learning_rate = 0.001  # 学习率
 
 save_epoch = 1  # 多少轮保存一个模型
 
 #=======================================================================================
-# relative file
+# relative file_path
 #=======================================================================================
 
 video_train_data_path = '../data/ch_video_train_seg.csv'
@@ -197,7 +197,8 @@ class Video_Caption_Generator():
                 alpha = tf.matmul(alpha, hidden2)  # [batch_size*n_video_step, 1]
 
                 # 以batch_size 隔开 alpha
-                alpha = tf.reshape(alpha, [self.batch_size, -1])  # [batch_size, n_video_step]
+                alpha = tf.reshape(alpha, [self.batch_size, -1])  # [batch_si
+                # ze, n_video_step]
 
                 # 求sofrmax
                 alpha = tf.nn.softmax(alpha)
@@ -218,6 +219,7 @@ class Video_Caption_Generator():
                 # 当前词向量，上下文，和之前输出的拼接
                 with tf.variable_scope('LSTM2'):
                     out2, state2 = self.lstm2(tf.concat(values=[current_embed, context, out_1], axis=1), state2)  # out2 -- [batch_size, dim_hidden]
+                    # 当前词向量、attention计算后的上下文、空白填充的隐向量
 
                 # caption取第i+1个标签，并扩宽1维
                 labels = tf.expand_dims(caption[:, i+1], 1)  # [batch_size, 1]  新1扩出来的是第1维
